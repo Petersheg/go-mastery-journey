@@ -5,3 +5,4 @@
 - [x] Day 03 - Error Hnadling and Random greeting using math/rand with SLICE
 - [x] Day 04 - Backward compatibility and Map data structure.
 - [x] Day 05 - Added a test file, compiled and build the app.
+- [x] Day 06 - Go Module conclusion.
