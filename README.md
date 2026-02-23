@@ -9,4 +9,4 @@
 
 ## A Tour of Go
 - [x] Day 07 - Concept of Function and Variable
-- [x] Day 08 - Go Data Types walk through
+- [x] Day 08 - Explore Go forloop and also learnt Go data types.

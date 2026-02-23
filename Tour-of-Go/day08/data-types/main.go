@@ -1,4 +1,4 @@
-package datatypes
+package main
 
 func main(){
 	//Datatype function
