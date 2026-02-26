@@ -11,3 +11,4 @@
 - [x] Day 07 - Concept of Function and Variable
 - [x] Day 08 - Explore Go forloop and also learnt Go data types.
 - [x] Day 09 - If statement walk through.
+- [x] Day 10 - Make use of both loop and If statement to implement the square root of a given number suing Newthon's method
