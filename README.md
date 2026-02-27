@@ -12,3 +12,4 @@
 - [x] Day 08 - Explore Go forloop and also learnt Go data types.
 - [x] Day 09 - If statement walk through.
 - [x] Day 10 - Make use of both loop and If statement to implement the square root of a given number suing Newthon's method
+- [x] Day 11 - Switch statements and runtime package exploration.
