@@ -16,3 +16,4 @@
 - [x] Day 11 - Switch statements and runtime package exploration.
 - [x] Day 12 - Defer statements and stacking defers.
 - [x] Day 13 - Pointers and Structs in Go
+- [x] Day 14 - Arrays in Go
