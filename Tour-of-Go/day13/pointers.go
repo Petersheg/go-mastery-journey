@@ -26,13 +26,13 @@ func Pointers() {
 	i, j := 42, 2701
 
 	p := &i //Points to i
-	fmt.Println(*p) //Reads i throuhg the point P.
+	fmt.Println(*p) //Reads i throuhg the pointer P.
 
 	*p = 21 //Set the value of i throuhg the pointer P
 	fmt.Println(i) //Print =s the new value of i
 
 	k := &j // Points to j
-	*k = *k / 37 //Divides J through the point 
+	*k = *k / 37 //Divides J through the pointer K
 
 	fmt.Println(j) //Prints the new value of J.
 }

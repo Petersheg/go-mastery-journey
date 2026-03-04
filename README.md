@@ -1,10 +1,11 @@
 ## Progress
 
+
 - [x] Day 01 – Getting Started
-- [x] Day 02 - Creatind Module
-- [x] Day 03 - Error Hnadling and Random greeting using math/rand with SLICE
+- [x] Day 02 - Creating Module
+- [x] Day 03 - Error Handling and Random greeting using math/rand with SLICE
 - [x] Day 04 - Backward compatibility and Map data structure.
-- [x] Day 05 - Added a test file, compiled and build the app.
+- [x] Day 05 - Added a test file, compiled and built the app.
 - [x] Day 06 - Go Module conclusion.
 
 
@@ -16,4 +17,6 @@
 - [x] Day 11 - Switch statements and runtime package exploration.
 - [x] Day 12 - Defer statements and stacking defers.
 - [x] Day 13 - Pointers and Structs in Go
+
 - [x] Day 14 - Arrays in Go
+- [ ] Day 15 - Arrays and Slices (slice section in progress)
