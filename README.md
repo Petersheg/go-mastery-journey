@@ -19,4 +19,6 @@
 - [x] Day 13 - Pointers and Structs in Go
 
 - [x] Day 14 - Arrays in Go
+
 - [ ] Day 15 - Arrays and Slices (slice section in progress)
+- [ ] Day 16 - Advanced Slice Operations (make, slices of slices, append)
