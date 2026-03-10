@@ -23,3 +23,5 @@
 - [ ] Day 15 - Arrays and Slices (slice section in progress)
 - [ ] Day 16 - Advanced Slice Operations (make, slices of slices, append)
 - [x] Day 17 - Slices Exercise: Implemented Pic function to generate grayscale images using slices. See Tour-of-Go/day17/README.md for details.
+
+[x] Day 18 - Maps: Declaring, initializing, mutating, and using maps with custom structs. See Tour-of-Go/day18/README.md for details.
