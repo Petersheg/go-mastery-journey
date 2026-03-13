@@ -28,4 +28,6 @@
  
  [x] Day 19 - Functions: Function definitions, usage, and exercises. See Tour-of-Go/day19/README.md for details.
  
+ [x] Day 20 - Methods: Defining methods on types with receiver arguments. See Tour-of-Go/day20/README.md for details.
+ 
  ```
