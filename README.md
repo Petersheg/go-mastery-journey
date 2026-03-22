@@ -31,3 +31,5 @@
  [x] Day 20 - Methods: Defining methods on types with receiver arguments. See Tour-of-Go/day20/README.md for details.
 
 - [x] Day 21 - Pointer Receivers: pointer vs value receivers, pointer indirection, and choosing receiver types. See Tour-of-Go/day21/README.md for details.
+
+- [x] Day 22 - Interfaces: interface definition, implicit implementation, pointer vs value receivers, and interface values. See Tour-of-Go/day22/README.md for details.
