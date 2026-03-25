@@ -25,7 +25,7 @@ func Interface() {
 	a = f // a MyFloat implements Abser
 	a = &v // a *Vertex implements Abser
 
-	// In the following line, v is a Vertex (not *Vertex) and does not implement Abser
+	// This is an  intentional error to show that only *Vertex implements Abser, not Vertex. --- IGNORE ---
 	a = v
 
 	fmt.Println(a.Abs())
