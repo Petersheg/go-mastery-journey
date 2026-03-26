@@ -35,3 +35,5 @@
 - [x] Day 22 - Interfaces: interface definition, implicit implementation, pointer vs value receivers, and interface values. See Tour-of-Go/day22/README.md for details.
 
 - [x] Day 23 - Interfaces Continued: nil underlying values, nil interface values, and empty interfaces. See Tour-of-Go/day23/README.md for details.
+
+- [x] Day 24 - Interfaces Continued: type assertions, type switches, Stringers, and Stringer exercise (IPAddr). See Tour-of-Go/day24/README.md for details.
