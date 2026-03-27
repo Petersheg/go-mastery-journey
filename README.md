@@ -37,3 +37,5 @@
 - [x] Day 23 - Interfaces Continued: nil underlying values, nil interface values, and empty interfaces. See Tour-of-Go/day23/README.md for details.
 
 - [x] Day 24 - Interfaces Continued: type assertions, type switches, Stringers, and Stringer exercise (IPAddr). See Tour-of-Go/day24/README.md for details.
+
+- [x] Day 25 - Errors: error interface, custom error types, and ErrNegativeSqrt exercise. See Tour-of-Go/day25/README.md for details.
