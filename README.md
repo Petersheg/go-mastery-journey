@@ -39,3 +39,5 @@
 - [x] Day 24 - Interfaces Continued: type assertions, type switches, Stringers, and Stringer exercise (IPAddr). See Tour-of-Go/day24/README.md for details.
 
 - [x] Day 25 - Errors: error interface, custom error types, and ErrNegativeSqrt exercise. See Tour-of-Go/day25/README.md for details.
+
+- [x] Day 26 - Readers: io.Reader interface, reading streams with strings.Reader, consuming output in byte slices. See Tour-of-Go/day26/reader.go for details.
